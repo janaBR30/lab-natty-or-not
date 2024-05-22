@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Poesias Visuais Aesthetic
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+"Poesias Visuais Aesthetic" é um projeto que combina a criação de poesias com imagens geradas por inteligência artificial para criar uma experiência visual e literária única. Utilizando ferramentas de IA, o projeto visa produzir poemas curtos acompanhados de ilustrações que capturam a essência estética e emocional das palavras.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **OpenAI GPT-4**: Para gerar poesias baseadas em temas e estilos específicos.
+- **DALL-E**: Para criar ilustrações que complementem visualmente as poesias.
+- **Canva**: Para combinar textos e imagens, criando layouts atraentes e prontos para compartilhamento.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Definição de Temas e Estilos**: Escolhemos uma variedade de temas (amor, natureza, melancolia, alegria) e estilos estéticos (minimalista, surrealista, abstrato) para as poesias e ilustrações.
+2. **Geração de Poesias**: Utilizando o GPT-4, geramos poesias curtas baseadas nos temas e estilos definidos. Cada poema foi revisado para garantir qualidade e coesão.
+3. **Criação de Ilustrações**: Usamos o DALL-E para gerar imagens que refletem o tema e a emoção de cada poema. Várias imagens foram geradas e selecionamos as que melhor capturavam a essência dos poemas.
+4. **Design de Layouts**: Com a ajuda do Canva, combinamos as poesias e as ilustrações em layouts visuais atraentes, ajustando fontes, cores e posicionamento para criar uma harmonia entre texto e imagem.
+5. **Revisão e Ajustes**: Revisamos os layouts para garantir que cada composição visual fosse esteticamente agradável e transmitisse a mensagem do poema de forma eficaz.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **Coleção de Poesias Visuais**: Uma coleção de 20 poesias curtas, cada uma com uma ilustração correspondente, pronta para ser compartilhada em formato digital.
+- **Posts para Redes Sociais**: Imagens otimizadas para redes sociais, permitindo a fácil divulgação e compartilhamento das poesias visuais.
+- **Mini E-book**: Um mini e-book digital contendo todas as poesias e ilustrações, disponível para download e leitura offline.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+"Poesias Visuais Aesthetic" foi um projeto simples, mas poderoso, mostrando como a IA pode ser usada para enriquecer a criação literária e visual. A combinação de palavras e imagens geradas por IA resultou em uma coleção estética e emocionalmente envolvente. A experiência demonstrou que mesmo projetos simples podem se beneficiar enormemente das capacidades criativas da inteligência artificial.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+
+
